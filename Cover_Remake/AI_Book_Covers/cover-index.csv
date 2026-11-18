@@ -1,0 +1,101 @@
+id,title,author,catalog_isbn13,filename,cover_source_url
+1,"Artificial Intelligence: A Modern Approach, 4th Edition","Stuart Russell, Peter Norvig",9780134610993,book-001.jpg,https://covers.openlibrary.org/b/isbn/9780134610993-M.jpg?default=false
+2,"Artificial Intelligence: Foundations of Computational Agents, 3rd Edition","David L. Poole, Alan K. Mackworth",9781009258197,book-002.jpg,https://www.cambridgebookshop.co.uk/cdn/shop/files/9781009258197i.jpg?v=1727273552&width=400
+3,Artificial Intelligence: The Basics,Kevin Warwick,9780415564830,book-003.jpg,https://covers.openlibrary.org/b/isbn/9780415564830-M.jpg?default=false
+4,Artificial Intelligence: A Guide for Thinking Humans,Melanie Mitchell,9780374257835,book-004.jpg,https://covers.openlibrary.org/b/isbn/9780374257835-M.jpg?default=false
+5,AI: A Very Short Introduction,Margaret A. Boden,9780199602919,book-005.jpg,https://covers.openlibrary.org/b/isbn/9780199602919-M.jpg?default=false
+6,The Quest for Artificial Intelligence,Nils J. Nilsson,9780521122931,book-006.jpg,https://cdn.shopify.com/s/files/1/0674/5433/7265/files/9780521122931_p0.jpg?v=1765065754&width=700&height=1051&crop=center
+7,Superintelligence,Nick Bostrom,9780199678112,book-007.jpg,https://covers.openlibrary.org/b/isbn/9780199678112-M.jpg?default=false
+8,Human Compatible,Stuart Russell,9780525558613,book-008.jpg,https://covers.openlibrary.org/b/isbn/9780525558613-M.jpg?default=false
+9,The Alignment Problem,Brian Christian,9780393635829,book-009.jpg,https://covers.openlibrary.org/b/isbn/9780393635829-M.jpg?default=false
+10,The Myth of Artificial Intelligence,Erik J. Larson,9780674983519,book-010.jpg,https://covers.openlibrary.org/b/isbn/9780674983519-M.jpg?default=false
+11,The Hundred-Page Machine Learning Book,Andriy Burkov,9781999579500,book-011.jpg,https://covers.openlibrary.org/b/isbn/9781999579500-M.jpg?default=false
+12,"Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Edition",Aurélien Géron,9781098125974,book-012.jpg,https://covers.openlibrary.org/b/isbn/9781098125974-M.jpg?default=false
+13,Machine Learning with PyTorch and Scikit-Learn,"Sebastian Raschka, Yuxi Liu, Vahid Mirjalili",9781801819312,book-013.jpg,https://covers.openlibrary.org/b/isbn/9781801819312-M.jpg?default=false
+14,Machine Learning,Ethem Alpaydın,9780262542524,book-014.jpg,https://covers.openlibrary.org/b/isbn/9780262542524-M.jpg?default=false
+15,"Introduction to Machine Learning, 4th Edition",Ethem Alpaydın,9780262043793,book-015.jpg,https://covers.openlibrary.org/b/isbn/9780262043793-M.jpg?default=false
+16,Machine Learning: A Probabilistic Perspective,Kevin P. Murphy,9780262018029,book-016.jpg,https://covers.openlibrary.org/b/isbn/9780262018029-M.jpg?default=false
+17,Understanding Machine Learning: From Theory to Algorithms,"Shai Shalev-Shwartz, Shai Ben-David",9781107057135,book-017.jpg,https://covers.openlibrary.org/b/isbn/9781107057135-M.jpg?default=false
+18,Pattern Recognition and Machine Learning,Christopher M. Bishop,9780387310732,book-018.jpg,https://covers.openlibrary.org/b/isbn/9780387310732-M.jpg?default=false
+19,"The Elements of Statistical Learning, 2nd Edition","Trevor Hastie, Robert Tibshirani, Jerome Friedman",9780387848570,book-019.jpg,https://covers.openlibrary.org/b/isbn/9780387848570-M.jpg?default=false
+20,"An Introduction to Statistical Learning, 2nd Edition","Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani",9781071614174,book-020.jpg,https://covers.openlibrary.org/b/isbn/9781071614174-M.jpg?default=false
+21,Mathematics for Machine Learning,"Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong",9781108455145,book-021.jpg,https://covers.openlibrary.org/b/isbn/9781108455145-M.jpg?default=false
+22,"Introduction to Linear Algebra, 5th Edition",Gilbert Strang,9780980232776,book-022.jpg,https://covers.openlibrary.org/b/isbn/9780980232776-M.jpg?default=false
+23,Linear Algebra and Learning from Data,Gilbert Strang,9780692196380,book-023.jpg,https://covers.openlibrary.org/b/isbn/9780692196380-M.jpg?default=false
+24,Convex Optimization,"Stephen Boyd, Lieven Vandenberghe",9780521833783,book-024.jpg,https://covers.openlibrary.org/b/isbn/9780521833783-M.jpg?default=false
+25,"Think Bayes, 2nd Edition",Allen B. Downey,9781492089469,book-025.jpg,https://covers.openlibrary.org/b/isbn/9781492089469-M.jpg?default=false
+26,"Statistical Rethinking, 2nd Edition",Richard McElreath,9780367139919,book-026.jpg,https://covers.openlibrary.org/b/isbn/9780367139919-M.jpg?default=false
+27,"Practical Statistics for Data Scientists, 2nd Edition","Peter Bruce, Andrew Bruce, Peter Gedeck",9781492072942,book-027.jpg,https://covers.openlibrary.org/b/isbn/9781492072942-M.jpg?default=false
+28,All of Statistics,Larry Wasserman,9780387402727,book-028.jpg,https://covers.openlibrary.org/b/isbn/9780387402727-M.jpg?default=false
+29,Probabilistic Machine Learning: An Introduction,Kevin P. Murphy,9780262046824,book-029.jpg,https://covers.openlibrary.org/b/isbn/9780262046824-M.jpg?default=false
+30,Probabilistic Machine Learning: Advanced Topics,Kevin P. Murphy,9780262048439,book-030.jpg,https://covers.openlibrary.org/b/isbn/9780262048439-M.jpg?default=false
+31,Deep Learning,"Ian Goodfellow, Yoshua Bengio, Aaron Courville",9780262035613,book-031.jpg,https://covers.openlibrary.org/b/isbn/9780262035613-M.jpg?default=false
+32,"Deep Learning with Python, 2nd Edition",François Chollet,9781617296864,book-032.jpg,https://covers.openlibrary.org/b/isbn/9781617296864-M.jpg?default=false
+33,Dive into Deep Learning,"Aston Zhang, Zachary C. Lipton, Mu Li, Alexander J. Smola",9781009389433,book-033.jpg,https://covers.openlibrary.org/b/isbn/9781009389433-M.jpg?default=false
+34,Understanding Deep Learning,Simon J. D. Prince,9780262048644,book-034.jpg,https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/d8/5a/50/d85a504e-0d3f-1062-3278-2722f670acd3/9780262377102.d.jpg/1200x1200wz.jpg
+35,Deep Learning for Coders with fastai and PyTorch,"Jeremy Howard, Sylvain Gugger",9781492045526,book-035.jpg,https://covers.openlibrary.org/b/isbn/9781492045526-M.jpg?default=false
+36,Grokking Deep Learning,Andrew W. Trask,9781617293702,book-036.jpg,https://covers.openlibrary.org/b/isbn/9781617293702-M.jpg?default=false
+37,Neural Networks and Deep Learning,Charu C. Aggarwal,9783319944623,book-037.jpg,https://covers.openlibrary.org/b/isbn/9783319944623-M.jpg?default=false
+38,Deep Learning: Foundations and Concepts,"Christopher M. Bishop, Hugh Bishop",9783031454677,book-038.jpg,https://covers.openlibrary.org/b/isbn/9783031454677-M.jpg?default=false
+39,Deep Learning with PyTorch,"Eli Stevens, Luca Antiga, Thomas Viehmann",9781617295263,book-039.jpg,https://covers.openlibrary.org/b/isbn/9781617295263-M.jpg?default=false
+40,Deep Learning from Scratch,Seth Weidman,9781492041412,book-040.jpg,https://covers.openlibrary.org/b/isbn/9781492041412-M.jpg?default=false
+41,"Speech and Language Processing, 2nd Edition","Daniel Jurafsky, James H. Martin",9780131873216,book-041.jpg,https://i.ebayimg.com/images/g/gAoAAOSwUNdjGwGs/s-l1200.jpg
+42,Foundations of Statistical Natural Language Processing,"Christopher D. Manning, Hinrich Schütze",9780262133609,book-042.jpg,https://dezyre.gumlet.io/images/blog/best-nlp-books/image_86714584821634809050613.jpg?dpr=1.4&w=750
+43,Natural Language Processing with Python,"Steven Bird, Ewan Klein, Edward Loper",9780596516499,book-043.jpg,https://covers.openlibrary.org/b/isbn/9780596516499-M.jpg?default=false
+44,Natural Language Processing with Transformers,"Lewis Tunstall, Leandro von Werra, Thomas Wolf",9781098103248,book-044.jpg,https://covers.openlibrary.org/b/isbn/9781098103248-M.jpg?default=false
+45,Practical Natural Language Processing,"Sowmya Vajjala, Bodhisattwa Majumder, Anuj Gupta, Harshit Surana",9781492054054,book-045.jpg,https://covers.openlibrary.org/b/isbn/9781492054054-M.jpg?default=false
+46,Introduction to Information Retrieval,"Christopher D. Manning, Prabhakar Raghavan, Hinrich Schütze",9780521865715,book-046.jpg,https://covers.openlibrary.org/b/isbn/9780521865715-M.jpg?default=false
+47,Text Mining with R,"Julia Silge, David Robinson",9781491981658,book-047.jpg,https://covers.openlibrary.org/b/isbn/9781491981658-M.jpg?default=false
+48,Build a Large Language Model (From Scratch),Sebastian Raschka,9781633437166,book-048.jpg,https://covers.openlibrary.org/b/isbn/9781633437166-M.jpg?default=false
+49,Hands-On Large Language Models,"Jay Alammar, Maarten Grootendorst",9781098150969,book-049.jpg,https://covers.openlibrary.org/b/isbn/9781098150969-M.jpg?default=false
+50,Natural Language Processing in Action,"Hobson Lane, Cole Howard, Hannes Max Hapke",9781617294631,book-050.jpg,https://covers.openlibrary.org/b/isbn/9781617294631-M.jpg?default=false
+51,AI Engineering,Chip Huyen,9781098166304,book-051.jpg,https://image.ebooks.com/cover/345913182.jpg
+52,AI-Powered Search,"Trey Grainger, Doug Turnbull, Max Irwin",9781617296970,book-052.jpg,https://images.manning.com/book/2/1820f79-f2ce-4866-8133-9250275ab9b3/Grainger-AI-HI.png
+53,"Generative Deep Learning, 2nd Edition",David Foster,9781098134181,book-053.jpg,https://target.scene7.com/is/image/Target/GUEST_a03e749e-0296-460a-8a48-f9153de5089f
+54,Deep Learning for Search,Tommaso Teofili,9781617294792,book-054.jpg,https://covers.openlibrary.org/b/isbn/9781617294792-M.jpg?default=false
+55,Deep Learning for Natural Language Processing,"Palash Goyal, Sumit Pandey, Karan Jain",9781484236840,book-055.jpg,https://covers.openlibrary.org/b/isbn/9781484236840-M.jpg?default=false
+56,"Deep Learning with R, 2nd Edition","François Chollet, Tomasz Kalinowski, J. J. Allaire",9781633439849,book-056.jpg,https://images.manning.com/264/352/resize/book/a/8f961a8-9cf7-47e8-a69b-949186e59a81/Chollet2-HI.png
+57,"Grokking AI Algorithms, 2nd Edition",Rishal Hurbans,9781633434813,book-057.jpg,https://images.manning.com/book/2/55a23d8-5fa5-4010-965a-fb2b6b2f2c59/Hurbans-HI.png
+58,"Data Science from Scratch, 2nd Edition",Joel Grus,9781492041139,book-058.jpg,https://www.oreilly.com/covers/urn:orm:book:9781492041122/296w/?format=webp
+59,Machine Learning for Hackers,"Drew Conway, John Myles White",9781449303716,book-059.jpg,https://i.thriftbooks.com/api/imagehandler/D19183FA036F19DA0BA3C4A44090436E227B05EE.jpeg
+60,Machine Learning in Action,Peter Harrington,9781617290183,book-060.jpg,https://images.manning.com/264/352/resize/book/c/4d7bb26-5e33-4b6a-b71b-2fa35958c0d9/pharrington.png
+61,"Computer Vision: Algorithms and Applications, 2nd Edition",Richard Szeliski,9783030343712,book-061.jpg,https://bukharibooks.com/wp-content/uploads/2022/06/computervision.png
+62,"Computer Vision: A Modern Approach, 2nd Edition","David A. Forsyth, Jean Ponce",9780136085928,book-062.jpg,https://pictures.abebooks.com/isbn/9789332550117-es.jpg
+63,"Digital Image Processing, 4th Edition","Rafael C. Gonzalez, Richard E. Woods",9780133356724,book-063.jpg,https://www.mathworks.com/academia/books/digital-image-processing-gonzalez/_jcr_content/cover.adapt.full.medium.png/1648488313320.png
+64,"Multiple View Geometry in Computer Vision, 2nd Edition","Richard Hartley, Andrew Zisserman",9780521540513,book-064.jpg,https://i5.walmartimages.com/seo/Multiple-View-Geometry-in-Computer-Vision-Paperback-9780521540513_b4a2518f-f86f-40eb-8aa2-330fab5342b8.d4410a31d21b5d626dcb836779b25d1b.jpeg?odnBg=FFFFFF&odnHeight=576&odnWidth=576
+65,Learning OpenCV 3,"Adrian Kaehler, Gary Bradski",9781491937990,book-065.jpg,https://is1-ssl.mzstatic.com/image/thumb/Publication128/v4/76/51/47/76514759-8ce2-3ae3-73ba-19f14c85a43a/9781491938003.jpg/1200x1200wz.jpg
+66,Programming Computer Vision with Python,Jan Erik Solem,9781449316549,book-066.jpg,https://i5.walmartimages.com/asr/87e19b6a-0f95-4232-8e85-a3fd19edf99f.52b94634cdf2d20c5ba557a89e3bf641.jpeg?odnBg=FFFFFF&odnHeight=768&odnWidth=768
+67,"Practical Deep Learning for Cloud, Mobile, and Edge","Anirudh Koul, Siddha Ganju, Meher Kasam",9781492034865,book-067.jpg,https://target.scene7.com/is/image/Target/GUEST_651484bd-d2f0-4615-8f59-184a74b74cc0
+68,Deep Learning for Vision Systems,Mohamed Elgendy,9781617296192,book-068.jpg,https://images.manning.com/book/4/bc144d6-7bd7-4e4f-80db-482b69819225/Elgendy-DLVS-HI.png
+69,Machine Vision,"Wesley E. Snyder, Hairong Qi",9780521830461,book-069.jpg,https://aicip.github.io/assets/book1.jpg
+70,"Computer Vision: Models, Learning, and Inference",Simon J. D. Prince,9781107011793,book-070.jpg,https://booklibimg.kfzimg.com/data/book_lib_img_v2/isbn/1/9b39/9b394eca6380eaa5a146753dc175467e_0_1_300_300.jpg
+71,"Reinforcement Learning: An Introduction, 2nd Edition","Richard S. Sutton, Andrew G. Barto",9780262039246,book-071.jpg,https://cdn.shopify.com/s/files/1/0034/8314/0209/products/Reinforcement-Learning-second-edition-An-Introduction-Books-Amazon_com_au-Smart-Buy-Direct-AU_1200x1200_crop_center.jpg?v=1650489147
+72,Algorithms for Reinforcement Learning,Csaba Szepesvári,9781608454921,book-072.jpg,https://media.springernature.com/full/springer-static/cover-hires/book/978-3-031-01551-9
+73,"Deep Reinforcement Learning Hands-On, 2nd Edition",Maxim Lapan,9781838826994,book-073.jpg,https://content.packt.com/B14854/cover_image.jpg?version=1771842825
+74,Grokking Deep Reinforcement Learning,Miguel Morales,9781617295454,book-074.jpg,https://images.manning.com/book/0/71803bc-4b2a-4893-a312-23f7ae55a00f/Morales_DRL_hires.png
+75,Reinforcement Learning and Optimal Control,Dimitri P. Bertsekas,9781886529397,book-075.jpg,https://www.mit.edu/~dimitrib/FINAL_RLCOVER.jpg
+76,Probabilistic Robotics,"Sebastian Thrun, Wolfram Burgard, Dieter Fox",9780262201629,book-076.jpg,https://images.thenile.io/r1000/9780262201629.jpg
+77,"Modern Robotics: Mechanics, Planning, and Control","Kevin M. Lynch, Frank C. Park",9781107156302,book-077.jpg,https://i5.walmartimages.com/seo/Modern-Robotics-Mechanics-Planning-and-Control-Hardcover-9781107156302_297519b6-2efc-4bb4-92c9-139f0885f15d.6f8608eca75ee3a0a97ba8baefd6d1ce.jpeg?odnBg=FFFFFF&odnHeight=768&odnWidth=768
+78,Planning Algorithms,Steven M. LaValle,9780521862059,book-078.jpg,https://is1-ssl.mzstatic.com/image/thumb/Publication5/v4/cf/48/fb/cf48fb19-8643-0afa-b738-bd06117bcea5/9781139926638.jpg/1200x900wz.jpg
+79,"Robotics: Modelling, Planning and Control","Bruno Siciliano, Lorenzo Sciavicco, Luigi Villani, Giuseppe Oriolo",9781846286414,book-079.jpg,https://media.springernature.com/full/springer-static/cover-hires/book/978-1-84628-642-1
+80,"Robotics, Vision and Control, 2nd Edition",Peter Corke,9783319544120,book-080.jpg,https://i5.walmartimages.com/seo/Springer-Tracts-Advanced-Robotics-Robotics-Vision-Control-Fundamental-Algorithms-Matlab-r-Second-Completely-Revised-Extended-Updated-Editi-Book-118-P_7db5edb1-a706-4fb2-88f9-a85f4ad05b25.d9157b89140fba39cfc5d77037fe6317.jpeg
+81,Designing Machine Learning Systems,Chip Huyen,9781098107963,book-081.jpg,https://huyenchip.com/assets/pics/covers/dmls-cover.png
+82,Machine Learning Engineering,Andriy Burkov,9781999579579,book-082.jpg,https://target.scene7.com/is/image/Target/GUEST_e7774e31-1548-4162-9a09-947493b5b13e
+83,Building Machine Learning Powered Applications,Emmanuel Ameisen,9781492045113,book-083.jpg,https://images-na.ssl-images-amazon.com/images/I/81K0-dM91hL._AC_UL600_SR600%2C600_.jpg
+84,Machine Learning Design Patterns,"Valliappa Lakshmanan, Sara Robinson, Michael Munn",9781098115784,book-084.jpg,https://is1-ssl.mzstatic.com/image/thumb/Publication114/v4/9f/77/50/9f7750d2-5e89-5cc1-734e-860256d18f2c/9781098115739.jpg/1200x1200wz.jpg
+85,Building Machine Learning Pipelines,"Hannes Hapke, Catherine Nelson",9781492053194,book-085.jpg,https://www.oreilly.com/covers/urn:orm:book:9781492053187/296w/?format=webp
+86,Introducing MLOps,Mark Treveil and the Dataiku Team,9781492083290,book-086.jpg,https://is1-ssl.mzstatic.com/image/thumb/Publication114/v4/d7/bb/73/d7bb7349-9a0d-35bd-840a-f2970b80cfe6/9781098116422.jpg/1200x1200wz.jpg
+87,Practical MLOps,"Noah Gift, Alfredo Deza",9781098103019,book-087.jpg,https://down-ph.img.susercontent.com/file/sg-11134201-7rd5l-lxb0hpmocnkw07
+88,Machine Learning Engineering in Action,Ben Wilson,9781617298714,book-088.jpg,https://images-na.ssl-images-amazon.com/images/I/71Owo5uMWaL._AC_UL600_SR600%2C600_.jpg
+89,Designing Data-Intensive Applications,Martin Kleppmann,9781449373320,book-089.jpg,https://covers.openlibrary.org/b/isbn/9781449373320-M.jpg?default=false
+90,Reliable Machine Learning,"Cathy Chen, Niall Richard Murphy, Kranti Parisa, D. Sculley, Todd Underwood",9781098106225,book-090.jpg,https://target.scene7.com/is/image/Target/GUEST_27b3e252-c121-4534-b226-4c67be6fc351
+91,Atlas of AI,Kate Crawford,9780300209570,book-091.jpg,https://store.mca.com.au/cdn/shop/files/9780300264630.jpg?v=1763336664&width=2048
+92,Weapons of Math Destruction,Cathy O'Neil,9780553418811,book-092.jpg,https://martinsfontespaulista.vteximg.com.br/arquivos/ids/1396078-1000-1000/952445.jpg?v=637623775502700000
+93,Automating Inequality,Virginia Eubanks,9781250074317,book-093.jpg,https://mpd-biblio-covers.imgix.net/9781250074317.jpg?dpr=2&v=2&w=900
+94,Algorithms of Oppression,Safiya Umoja Noble,9781479837243,book-094.jpg,https://cdn-images.15minutes.ai/book-cover/34762552.jpg
+95,Race After Technology,Ruha Benjamin,9781509526406,book-095.jpg,https://is1-ssl.mzstatic.com/image/thumb/Publication113/v4/aa/b9/b8/aab9b8fd-2ad0-8aff-1d80-7f0a70e7e125/9781509526437.jpg/1200x1200wz.jpg
+96,The Black Box Society,Frank Pasquale,9780674368279,book-096.jpg,https://images.thenile.io/r1000/9780674970847.jpg
+97,Data Feminism,"Catherine D'Ignazio, Lauren F. Klein",9780262044004,book-097.jpg,https://theinfographicshop.com/cdn/shop/products/81xA2OxvZoL.jpg?v=1668601015
+98,Invisible Women,Caroline Criado Perez,9781419729072,book-098.jpg,https://designmuseumshop.com/cdn/shop/files/Invisible_Women_cover.jpg?v=1772030176&width=1024
+99,Unmasking AI,Joy Buolamwini,9780593241837,book-099.jpg,https://images4.penguinrandomhouse.com/cover/9780593821930
+100,AI Snake Oil,"Arvind Narayanan, Sayash Kapoor",9780691249131,book-100.jpg,https://pup-assets.s3.amazonaws.com/public/onix/images/9780691249131.jpg

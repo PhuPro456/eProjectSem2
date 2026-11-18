@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Explore 100 books at Paper & Pine bookstore">
+  <title>Paper & Pine | Bookstore</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+  <script defer src="{{ url_for('static', filename='js/app.js') }}"></script>
+</head>
+<body>
+  <header class="site-header"><a class="logo" href="/">Paper <span>&</span> Pine</a><span class="header-note">Your next favorite read awaits</span></header>
+  <section class="hero"><div class="hero-inner"><p class="eyebrow">CURATED READING COLLECTION</p><h1>Discover your<br><em>next chapter.</em></h1><p>Browse 100 books across your favorite genres. Search, explore, and find something worth reading.</p><a href="#collection" class="hero-link">Explore collection ↓</a></div></section>
+  <main id="collection" class="main-content">
+    <div class="section-heading"><div><p class="eyebrow">THE COLLECTION</p><h2>Browse our books</h2></div><span id="resultCount" role="status" aria-live="polite">Loading books…</span></div>
+    <div class="controls"><label class="search-wrap"><span class="sr-only">Search books</span><input id="searchInput" type="search" placeholder="Search titles, authors, or descriptions…" autocomplete="off"></label><label class="category-wrap"><span class="sr-only">Choose category</span><select id="categorySelect"><option value="">All categories</option></select></label><button id="clearButton" type="button">Clear filters</button></div>
+    <div id="bookGrid" class="book-grid" aria-live="polite"></div>
+    <div id="emptyState" class="empty-state" hidden><h3>No books found</h3><p>Try a different search or category.</p></div>
+    <div id="errorState" class="empty-state" hidden><h3>Couldn't load the collection</h3><p>Please refresh the page and ensure the Flask server is running.</p></div>
+  </main>
+  <footer>© Paper & Pine · Demo bookstore · Prices and stock are sample data</footer>
+</body>
+</html>

@@ -1,0 +1,101 @@
+id,title,author,catalog_isbn13,filename,source_url,source_match
+1,"The Pragmatic Programmer, 20th Anniversary Edition","David Thomas, Andrew Hunt",9780135957059,book-001.jpg,https://covers.openlibrary.org/b/isbn/9780135957059-M.jpg?default=false,Open Library ISBN lookup
+2,"Clean Code, 2nd Edition",Robert C. Martin,9780135398579,book-002.jpg,https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/3b/e5/c4/3be5c448-78d3-7bc4-e3d5-e471803eb028/9780135398548.jpg/1200x1200wz.jpg,Publisher or retailer artwork
+3,"Code Complete, 2nd Edition",Steve McConnell,9780735619678,book-003.jpg,https://covers.openlibrary.org/b/isbn/9780735619678-M.jpg?default=false,Open Library ISBN lookup
+4,"Refactoring, 2nd Edition",Martin Fowler,9780134757599,book-004.jpg,https://covers.openlibrary.org/b/isbn/9780134757599-M.jpg?default=false,Open Library ISBN lookup
+5,Design Patterns,"Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides",9780201633610,book-005.jpg,https://covers.openlibrary.org/b/isbn/9780201633610-M.jpg?default=false,Open Library ISBN lookup
+6,"A Philosophy of Software Design, 2nd Edition",John Ousterhout,9781732102217,book-006.jpg,https://i.ebayimg.com/images/g/170AAeSwA91oXnlq/s-l1600.png,Publisher or retailer artwork
+7,Working Effectively with Legacy Code,Michael C. Feathers,9780131177055,book-007.jpg,https://covers.openlibrary.org/b/isbn/9780131177055-M.jpg?default=false,Open Library ISBN lookup
+8,The Mythical Man-Month,Frederick P. Brooks Jr.,9780201835953,book-008.jpg,https://covers.openlibrary.org/b/isbn/9780201835953-M.jpg?default=false,Open Library ISBN lookup
+9,Software Engineering at Google,"Titus Winters, Tom Manshreck, Hyrum Wright",9781492082798,book-009.jpg,https://covers.openlibrary.org/b/isbn/9781492082798-M.jpg?default=false,Open Library ISBN lookup
+10,The Practice of Programming,"Brian W. Kernighan, Rob Pike",9780201615869,book-010.jpg,https://covers.openlibrary.org/b/isbn/9780201615869-M.jpg?default=false,Open Library ISBN lookup
+11,"Introduction to Algorithms, 4th Edition","Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein",9780262046305,book-011.jpg,https://covers.openlibrary.org/b/isbn/9780262046305-M.jpg?default=false,Open Library ISBN lookup
+12,"Algorithms, 4th Edition","Robert Sedgewick, Kevin Wayne",9780321573513,book-012.jpg,https://covers.openlibrary.org/b/isbn/9780321573513-M.jpg?default=false,Open Library ISBN lookup
+13,Algorithm Design,"Jon Kleinberg, Éva Tardos",9780321295354,book-013.jpg,https://images-us.bookshop.org/ingram/9780321295354.jpg?v=enc-v1,Publisher or retailer artwork
+14,"The Algorithm Design Manual, 3rd Edition",Steven S. Skiena,9783030542559,book-014.jpg,https://covers.openlibrary.org/b/isbn/9783030542559-M.jpg?default=false,Open Library ISBN lookup
+15,"Grokking Algorithms, 2nd Edition",Aditya Y. Bhargava,9781633438538,book-015.jpg,https://covers.openlibrary.org/b/isbn/9781633438538-M.jpg?default=false,Open Library ISBN lookup
+16,"A Common-Sense Guide to Data Structures and Algorithms, 2nd Edition",Jay Wengrow,9781680507225,book-016.jpg,https://covers.openlibrary.org/b/isbn/9781680507225-M.jpg?default=false,Open Library ISBN lookup
+17,"The Art of Computer Programming, Volume 1",Donald E. Knuth,9780201896831,book-017.jpg,https://hanoibookstore.com/storage/the-art-of-computer-programming-volume-1-fundamental-algorithms-3rd-edition-800x800.jpg,Publisher or retailer artwork
+18,"Programming Pearls, 2nd Edition",Jon Bentley,9780201657883,book-018.jpg,https://covers.openlibrary.org/b/isbn/9780201657883-M.jpg?default=false,Open Library ISBN lookup
+19,"Structure and Interpretation of Computer Programs, 2nd Edition","Harold Abelson, Gerald Jay Sussman, Julie Sussman",9780262510875,book-019.jpg,https://covers.openlibrary.org/b/isbn/9780262510875-M.jpg?default=false,Open Library ISBN lookup
+20,"The Elements of Computing Systems, 2nd Edition","Noam Nisan, Shimon Schocken",9780262539807,book-020.jpg,https://cdn2.penguin.com.au/covers/original/9780262539807.jpg,Publisher or retailer artwork
+21,"Python Crash Course, 3rd Edition",Eric Matthes,9781718502703,book-021.jpg,https://covers.openlibrary.org/b/isbn/9781718502703-M.jpg?default=false,Open Library ISBN lookup
+22,"Automate the Boring Stuff with Python, 2nd Edition",Al Sweigart,9781593279929,book-022.jpg,https://covers.openlibrary.org/b/isbn/9781593279929-M.jpg?default=false,Open Library ISBN lookup
+23,"Fluent Python, 2nd Edition",Luciano Ramalho,9781492056355,book-023.jpg,https://covers.openlibrary.org/b/isbn/9781492056355-M.jpg?default=false,Open Library ISBN lookup
+24,"Effective Python, 2nd Edition",Brett Slatkin,9780134853987,book-024.jpg,https://covers.openlibrary.org/b/isbn/9780134853987-M.jpg?default=false,Open Library ISBN lookup
+25,"Python Cookbook, 3rd Edition","David Beazley, Brian K. Jones",9781449340377,book-025.jpg,https://covers.openlibrary.org/b/isbn/9781449340377-M.jpg?default=false,Open Library ISBN lookup
+26,"Learning Python, 5th Edition",Mark Lutz,9781449355739,book-026.jpg,https://www.mgsuperlabs.co.in/estore/image/cache/data/Books/9789351102014-500x500.jpg,Publisher or retailer artwork
+27,"Python for Data Analysis, 3rd Edition",Wes McKinney,9781098104030,book-027.jpg,https://covers.openlibrary.org/b/isbn/9781098104030-M.jpg?default=false,Open Library ISBN lookup
+28,Robust Python,Patrick Viafore,9781098100667,book-028.jpg,https://covers.openlibrary.org/b/isbn/9781098100667-M.jpg?default=false,Open Library ISBN lookup
+29,Serious Python,Julien Danjou,9781593278786,book-029.jpg,https://covers.openlibrary.org/b/isbn/9781593278786-M.jpg?default=false,Open Library ISBN lookup
+30,Python Tricks,Dan Bader,9781775093305,book-030.jpg,https://covers.openlibrary.org/b/isbn/9781775093305-M.jpg?default=false,Open Library ISBN lookup
+31,"Eloquent JavaScript, 4th Edition",Marijn Haverbeke,9781718504103,book-031.jpg,https://cdn2.penguin.com.au/covers/original/9781718504103.jpg,Publisher or retailer artwork
+32,"JavaScript: The Definitive Guide, 7th Edition",David Flanagan,9781491952023,book-032.jpg,https://covers.openlibrary.org/b/isbn/9781491952023-M.jpg?default=false,Open Library ISBN lookup
+33,JavaScript: The Good Parts,Douglas Crockford,9780596517748,book-033.jpg,https://covers.openlibrary.org/b/isbn/9780596517748-M.jpg?default=false,Open Library ISBN lookup
+34,You Don't Know JS: Scope & Closures,Kyle Simpson,9781449335588,book-034.jpg,https://covers.openlibrary.org/b/isbn/9781449335588-M.jpg?default=false,Open Library ISBN lookup
+35,"Secrets of the JavaScript Ninja, 2nd Edition","John Resig, Bear Bibeault, Josip Maras",9781617292859,book-035.jpg,https://covers.openlibrary.org/b/isbn/9781617292859-M.jpg?default=false,Open Library ISBN lookup
+36,Learning TypeScript,Josh Goldberg,9781098110338,book-036.jpg,https://covers.openlibrary.org/b/isbn/9781098110338-M.jpg?default=false,Open Library ISBN lookup
+37,"Effective TypeScript, 2nd Edition",Dan Vanderkam,9781098155063,book-037.jpg,https://cdn.kobo.com/book-images/fab4e3aa-cbb3-4b18-8706-900c2182289a/1200/1200/False/effective-typescript-1.jpg,Publisher or retailer artwork
+38,Programming TypeScript,Boris Cherny,9781492037651,book-038.jpg,https://covers.openlibrary.org/b/isbn/9781492037651-M.jpg?default=false,Open Library ISBN lookup
+39,"Node.js Design Patterns, 3rd Edition","Mario Casciaro, Luciano Mammino",9781839214110,book-039.jpg,https://i5.walmartimages.com/seo/Node-js-Design-Patterns-Third-edition-Design-and-implement-production-grade-Node-js-applications-using-proven-patterns-and-techniques-Paperback-97818_d1f9a91b-123f-4635-aea6-610117061b7a.c3700d48a0c3fbed6d006827f8ccff96.jpeg?odnBg=FFFFFF&odnHeight=768&odnWidth=768,Publisher or retailer artwork
+40,JavaScript Patterns,Stoyan Stefanov,9780596806750,book-040.jpg,https://covers.openlibrary.org/b/isbn/9780596806750-M.jpg?default=false,Open Library ISBN lookup
+41,"Effective Java, 3rd Edition",Joshua Bloch,9780134685991,book-041.jpg,https://covers.openlibrary.org/b/isbn/9780134685991-M.jpg?default=false,Open Library ISBN lookup
+42,"Head First Java, 3rd Edition","Kathy Sierra, Bert Bates, Trisha Gee",9781491910771,book-042.jpg,https://covers.openlibrary.org/b/isbn/9781491910771-M.jpg?default=false,Open Library ISBN lookup
+43,Java Concurrency in Practice,"Brian Goetz, Tim Peierls, Joshua Bloch, Joseph Bowbeer, David Holmes, Doug Lea",9780321349606,book-043.jpg,https://covers.openlibrary.org/b/isbn/9780321349606-M.jpg?default=false,Open Library ISBN lookup
+44,"Core Java, Volume I: Fundamentals, 12th Edition",Cay S. Horstmann,9780137673629,book-044.jpg,https://cdn.shopify.com/s/files/1/0674/5433/7265/files/9780137673629_p0.jpg?v=1771376052&width=600&height=785&crop=center,Publisher or retailer artwork
+45,Modern Java in Action,"Raoul-Gabriel Urma, Mario Fusco, Alan Mycroft",9781617293566,book-045.jpg,https://covers.openlibrary.org/b/isbn/9781617293566-M.jpg?default=false,Open Library ISBN lookup
+46,"Java: The Complete Reference, 12th Edition",Herbert Schildt,9781260463415,book-046.jpg,https://covers.openlibrary.org/b/isbn/9781260463415-M.jpg?default=false,Open Library ISBN lookup
+47,"Spring in Action, 6th Edition",Craig Walls,9781617297571,book-047.jpg,https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/df/af/83/dfaf8387-7e1f-4786-a788-e67fb757b4ec/9781638356486.jpg/1200x1200wz.jpg,Publisher or retailer artwork
+48,Kotlin in Action,"Dmitry Jemerov, Svetlana Isakova",9781617293290,book-048.jpg,https://covers.openlibrary.org/b/isbn/9781617293290-M.jpg?default=false,Open Library ISBN lookup
+49,"Programming in Scala, 4th Edition","Martin Odersky, Lex Spoon, Bill Venners, Frank Sommers",9780981531618,book-049.jpg,https://www.artima.com/images/pins4edCover500x500.png,Publisher or retailer artwork
+50,Functional Programming in Scala,"Paul Chiusano, Rúnar Bjarnason",9781617290657,book-050.jpg,https://covers.openlibrary.org/b/isbn/9781617290657-M.jpg?default=false,Open Library ISBN lookup
+51,"The C Programming Language, 2nd Edition","Brian W. Kernighan, Dennis M. Ritchie",9780131103627,book-051.jpg,https://covers.openlibrary.org/b/isbn/9780131103627-M.jpg?default=false,Open Library ISBN lookup
+52,"C Programming: A Modern Approach, 2nd Edition",K. N. King,9780393979503,book-052.jpg,https://image.ebooks.com/cover/210130787.jpg,Publisher or retailer artwork
+53,Expert C Programming,Peter van der Linden,9780131774292,book-053.jpg,https://covers.openlibrary.org/b/isbn/9780131774292-M.jpg?default=false,Open Library ISBN lookup
+54,"A Tour of C++, 3rd Edition",Bjarne Stroustrup,9780136816485,book-054.jpg,https://covers.openlibrary.org/b/isbn/9780136816485-M.jpg?default=false,Open Library ISBN lookup
+55,Effective Modern C++,Scott Meyers,9781491903995,book-055.jpg,https://covers.openlibrary.org/b/isbn/9781491903995-M.jpg?default=false,Open Library ISBN lookup
+56,"C++ Primer, 5th Edition","Stanley B. Lippman, Josée Lajoie, Barbara E. Moo",9780321714114,book-056.jpg,https://covers.openlibrary.org/b/isbn/9780321714114-M.jpg?default=false,Open Library ISBN lookup
+57,"The Rust Programming Language, 2nd Edition","Steve Klabnik, Carol Nichols",9781718503106,book-057.jpg,https://covers.openlibrary.org/b/isbn/9781718503106-M.jpg?default=false,Open Library ISBN lookup
+58,"Programming Rust, 2nd Edition","Jim Blandy, Jason Orendorff, Leonora F. S. Tindall",9781492052593,book-058.jpg,https://www.oreilly.com/covers/urn:orm:book:9781492052586/296w/?format=webp,Publisher or retailer artwork
+59,Rust for Rustaceans,Jon Gjengset,9781718501850,book-059.jpg,https://covers.openlibrary.org/b/isbn/9781718501850-M.jpg?default=false,Open Library ISBN lookup
+60,The Go Programming Language,"Alan A. A. Donovan, Brian W. Kernighan",9780134190440,book-060.jpg,https://covers.openlibrary.org/b/isbn/9780134190440-M.jpg?default=false,Open Library ISBN lookup
+61,"Flask Web Development, 2nd Edition",Miguel Grinberg,9781491991732,book-061.jpg,https://covers.openlibrary.org/b/isbn/9781491991732-M.jpg?default=false,Open Library ISBN lookup
+62,Django for Beginners,William S. Vincent,9781735467207,book-062.jpg,https://pictures.abebooks.com/isbn/9781735467207-us.jpg,Publisher or retailer artwork
+63,HTML and CSS: Design and Build Websites,Jon Duckett,9781118008188,book-063.jpg,https://covers.openlibrary.org/b/isbn/9781118008188-M.jpg?default=false,Open Library ISBN lookup
+64,JavaScript and JQuery: Interactive Front-End Web Development,Jon Duckett,9781118531648,book-064.jpg,https://covers.openlibrary.org/b/isbn/9781118531648-M.jpg?default=false,Open Library ISBN lookup
+65,"Learning Web Design, 5th Edition",Jennifer Niederst Robbins,9781491960202,book-065.jpg,https://covers.openlibrary.org/b/isbn/9781491960202-M.jpg?default=false,Open Library ISBN lookup
+66,CSS Secrets,Lea Verou,9781449372637,book-066.jpg,https://covers.openlibrary.org/b/isbn/9781449372637-M.jpg?default=false,Open Library ISBN lookup
+67,"CSS: The Definitive Guide, 5th Edition","Eric A. Meyer, Estelle Weyl",9781098117610,book-067.jpg,https://www.oreilly.com/api/v2/epubs/urn%3Aorm%3Abook%3A9781098117603/files/assets/cover.png,Publisher or retailer artwork
+68,"Learning React, 2nd Edition","Alex Banks, Eve Porcello",9781492051725,book-068.jpg,https://covers.openlibrary.org/b/isbn/9781492051725-M.jpg?default=false,Open Library ISBN lookup
+69,Designing Web APIs,"Brenda Jin, Saurabh Sahni, Amir Shevat",9781492026921,book-069.jpg,https://covers.openlibrary.org/b/isbn/9781492026921-M.jpg?default=false,Open Library ISBN lookup
+70,RESTful Web APIs,"Leonard Richardson, Mike Amundsen, Sam Ruby",9781449358068,book-070.jpg,https://covers.openlibrary.org/b/isbn/9781449358068-M.jpg?default=false,Open Library ISBN lookup
+71,Designing Data-Intensive Applications,Martin Kleppmann,9781449373320,book-071.jpg,https://covers.openlibrary.org/b/isbn/9781449373320-M.jpg?default=false,Open Library ISBN lookup
+72,Database Internals,Alex Petrov,9781492040347,book-072.jpg,https://covers.openlibrary.org/b/isbn/9781492040347-M.jpg?default=false,Open Library ISBN lookup
+73,"Learning SQL, 3rd Edition",Alan Beaulieu,9781492057611,book-073.jpg,https://covers.openlibrary.org/b/isbn/9781492057611-M.jpg?default=false,Open Library ISBN lookup
+74,"SQL Cookbook, 2nd Edition","Anthony Molinaro, Robert de Graaf",9781492077442,book-074.jpg,https://down-th.img.susercontent.com/file/id-11134207-7r990-lonr6quyfuh557,Publisher or retailer artwork
+75,SQL Antipatterns,Bill Karwin,9781934356555,book-075.jpg,https://covers.openlibrary.org/b/isbn/9781934356555-M.jpg?default=false,Open Library ISBN lookup
+76,SQL Performance Explained,Markus Winand,9783950307825,book-076.jpg,https://covers.openlibrary.org/b/isbn/9783950307825-M.jpg?default=false,Open Library ISBN lookup
+77,"Practical SQL, 2nd Edition",Anthony DeBarros,9781718501065,book-077.jpg,https://covers.openlibrary.org/b/isbn/9781718501065-M.jpg?default=false,Open Library ISBN lookup
+78,"Database System Concepts, 7th Edition","Abraham Silberschatz, Henry F. Korth, S. Sudarshan",9780078022159,book-078.jpg,https://covers.openlibrary.org/b/isbn/9780078022159-M.jpg?default=false,Open Library ISBN lookup
+79,Fundamentals of Data Engineering,"Joe Reis, Matt Housley",9781098108304,book-079.jpg,https://covers.openlibrary.org/b/isbn/9781098108304-M.jpg?default=false,Open Library ISBN lookup
+80,"The Data Warehouse Toolkit, 3rd Edition","Ralph Kimball, Margy Ross",9781118530801,book-080.jpg,https://covers.openlibrary.org/b/isbn/9781118530801-M.jpg?default=false,Open Library ISBN lookup
+81,Clean Architecture,Robert C. Martin,9780134494166,book-081.jpg,https://covers.openlibrary.org/b/isbn/9780134494166-M.jpg?default=false,Open Library ISBN lookup
+82,Domain-Driven Design,Eric Evans,9780321125217,book-082.jpg,https://covers.openlibrary.org/b/isbn/9780321125217-M.jpg?default=false,Open Library ISBN lookup
+83,Patterns of Enterprise Application Architecture,Martin Fowler,9780321127426,book-083.jpg,https://covers.openlibrary.org/b/isbn/9780321127426-M.jpg?default=false,Open Library ISBN lookup
+84,Software Architecture: The Hard Parts,"Neal Ford, Mark Richards, Pramod Sadalage, Zhamak Dehghani",9781492086895,book-084.jpg,https://covers.openlibrary.org/b/isbn/9781492086895-M.jpg?default=false,Open Library ISBN lookup
+85,Fundamentals of Software Architecture,"Mark Richards, Neal Ford",9781492043454,book-085.jpg,https://covers.openlibrary.org/b/isbn/9781492043454-M.jpg?default=false,Open Library ISBN lookup
+86,"Building Microservices, 2nd Edition",Sam Newman,9781492034025,book-086.jpg,https://covers.openlibrary.org/b/isbn/9781492034025-M.jpg?default=false,Open Library ISBN lookup
+87,"Release It!, 2nd Edition",Michael T. Nygard,9781680502398,book-087.jpg,https://covers.openlibrary.org/b/isbn/9781680502398-M.jpg?default=false,Open Library ISBN lookup
+88,Site Reliability Engineering,"Betsy Beyer, Chris Jones, Jennifer Petoff, Niall Richard Murphy",9781491929124,book-088.jpg,https://covers.openlibrary.org/b/isbn/9781491929124-M.jpg?default=false,Open Library ISBN lookup
+89,Continuous Delivery,"Jez Humble, David Farley",9780321601919,book-089.jpg,https://covers.openlibrary.org/b/isbn/9780321601919-M.jpg?default=false,Open Library ISBN lookup
+90,The DevOps Handbook,"Gene Kim, Jez Humble, Patrick Debois, John Willis",9781942788003,book-090.jpg,https://covers.openlibrary.org/b/isbn/9781942788003-M.jpg?default=false,Open Library ISBN lookup
+91,Test-Driven Development: By Example,Kent Beck,9780321146533,book-091.jpg,https://covers.openlibrary.org/b/isbn/9780321146533-M.jpg?default=false,Open Library ISBN lookup
+92,"Growing Object-Oriented Software, Guided by Tests","Steve Freeman, Nat Pryce",9780321503626,book-092.jpg,https://covers.openlibrary.org/b/isbn/9780321503626-M.jpg?default=false,Open Library ISBN lookup
+93,"Unit Testing Principles, Practices, and Patterns",Vladimir Khorikov,9781617296277,book-093.jpg,https://images.manning.com/264/352/resize/book/0/fd97ee5-72ec-446f-a11f-d284f915245b/Khorikov-UT-HI.png,Publisher or retailer artwork
+94,"Python Testing with pytest, 2nd Edition",Brian Okken,9781680508604,book-094.jpg,https://media.pragprog.com/covers/bopytest2.jpg,Publisher or retailer artwork
+95,How Google Tests Software,"James A. Whittaker, Jason Arbon, Jeff Carollo",9780321803023,book-095.jpg,https://covers.openlibrary.org/b/isbn/9780321803023-M.jpg?default=false,Open Library ISBN lookup
+96,"Pro Git, 2nd Edition","Scott Chacon, Ben Straub",9781484200773,book-096.jpg,https://cdn.shopify.com/s/files/1/0674/5433/7265/files/9781484200773_p0.jpg?v=1764998571,Publisher or retailer artwork
+97,"The Linux Command Line, 2nd Edition",William Shotts,9781593279523,book-097.jpg,https://thepihut.com/cdn/shop/products/the-linux-command-line-2nd-edition-no-starch-press-103790-30185588555971.jpg?v=1646124845&width=2048,Publisher or retailer artwork
+98,"The Web Application Hacker's Handbook, 2nd Edition","Dafydd Stuttard, Marcus Pinto",9781118026472,book-098.jpg,https://martinsfontespaulista.vteximg.com.br/arquivos/ids/704576-800-800/659640_ampliada.jpg?v=637262486551030000,Publisher or retailer artwork
+99,Threat Modeling: Designing for Security,Adam Shostack,9781118809990,book-099.jpg,https://cdn.kobo.com/book-images/d564d967-8b64-448e-a1a9-5f74348c1c23/1200/1200/False/threat-modeling.jpg,Publisher or retailer artwork
+100,Secure by Design,"Dan Bergh Johnsson, Daniel Deogun, Daniel Sawano",9781617294358,book-100.jpg,https://drek4537l1klr.cloudfront.net/johnsson/Figures/cover.jpg,Publisher or retailer artwork

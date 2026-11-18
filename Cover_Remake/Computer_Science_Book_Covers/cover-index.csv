@@ -1,0 +1,101 @@
+id,title,author,catalog_isbn13,filename,cover_source_url
+1,"Introduction to Algorithms, 4th Edition","Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein",9780262046305,book-001.jpg,https://covers.openlibrary.org/b/isbn/9780262046305-M.jpg?default=false
+2,"Algorithms, 4th Edition","Robert Sedgewick, Kevin Wayne",9780321573513,book-002.jpg,https://covers.openlibrary.org/b/isbn/9780321573513-M.jpg?default=false
+3,Algorithm Design,"Jon Kleinberg, Éva Tardos",9780321295354,book-003.jpg,https://images-us.bookshop.org/ingram/9780321295354.jpg?v=enc-v1
+4,"The Algorithm Design Manual, 3rd Edition",Steven S. Skiena,9783030542559,book-004.jpg,https://covers.openlibrary.org/b/isbn/9783030542559-M.jpg?default=false
+5,"Grokking Algorithms, 2nd Edition",Aditya Y. Bhargava,9781633438538,book-005.jpg,https://covers.openlibrary.org/b/isbn/9781633438538-M.jpg?default=false
+6,"A Common-Sense Guide to Data Structures and Algorithms, 2nd Edition",Jay Wengrow,9781680507225,book-006.jpg,https://covers.openlibrary.org/b/isbn/9781680507225-M.jpg?default=false
+7,"The Art of Computer Programming, Volume 1",Donald E. Knuth,9780201896831,book-007.jpg,https://hanoibookstore.com/storage/the-art-of-computer-programming-volume-1-fundamental-algorithms-3rd-edition-800x800.jpg
+8,"Programming Pearls, 2nd Edition",Jon Bentley,9780201657883,book-008.jpg,https://covers.openlibrary.org/b/isbn/9780201657883-M.jpg?default=false
+9,Algorithms,"Sanjoy Dasgupta, Christos H. Papadimitriou, Umesh V. Vazirani",9780073523408,book-009.jpg,https://covers.openlibrary.org/b/isbn/9780073523408-M.jpg?default=false
+10,"Algorithmics: The Spirit of Computing, 3rd Edition","David Harel, Yishai Feldman",9780321117847,book-010.jpg,https://covers.openlibrary.org/b/isbn/9780321117847-M.jpg?default=false
+11,"Introduction to the Theory of Computation, 3rd Edition",Michael Sipser,9781133187790,book-011.jpg,https://covers.openlibrary.org/b/isbn/9781133187790-M.jpg?default=false
+12,"Introduction to Automata Theory, Languages, and Computation, 3rd Edition","John E. Hopcroft, Rajeev Motwani, Jeffrey D. Ullman",9780321455369,book-012.jpg,https://covers.openlibrary.org/b/isbn/9780321455369-M.jpg?default=false
+13,Computational Complexity: A Modern Approach,"Sanjeev Arora, Boaz Barak",9780521424264,book-013.jpg,https://covers.openlibrary.org/b/isbn/9780521424264-M.jpg?default=false
+14,Computers and Intractability,"Michael R. Garey, David S. Johnson",9780716710455,book-014.jpg,https://covers.openlibrary.org/b/isbn/9780716710455-M.jpg?default=false
+15,"Concrete Mathematics, 2nd Edition","Ronald L. Graham, Donald E. Knuth, Oren Patashnik",9780201558029,book-015.jpg,https://covers.openlibrary.org/b/isbn/9780201558029-M.jpg?default=false
+16,"Discrete Mathematics and Its Applications, 8th Edition",Kenneth H. Rosen,9781259676512,book-016.jpg,https://covers.openlibrary.org/b/isbn/9781259676512-M.jpg?default=false
+17,"Discrete Mathematics with Applications, 5th Edition",Susanna S. Epp,9781337694193,book-017.jpg,https://covers.openlibrary.org/b/isbn/9781337694193-M.jpg?default=false
+18,Convex Optimization,"Stephen Boyd, Lieven Vandenberghe",9780521833783,book-018.jpg,https://covers.openlibrary.org/b/isbn/9780521833783-M.jpg?default=false
+19,Mathematics for Machine Learning,"Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong",9781108455145,book-019.jpg,https://covers.openlibrary.org/b/isbn/9781108455145-M.jpg?default=false
+20,Understanding Machine Learning: From Theory to Algorithms,"Shai Shalev-Shwartz, Shai Ben-David",9781107057135,book-020.jpg,https://covers.openlibrary.org/b/isbn/9781107057135-M.jpg?default=false
+21,"The Elements of Computing Systems, 2nd Edition","Noam Nisan, Shimon Schocken",9780262539807,book-021.jpg,https://cdn2.penguin.com.au/covers/original/9780262539807.jpg
+22,"Computer Systems: A Programmer's Perspective, 3rd Edition","Randal E. Bryant, David R. O'Hallaron",9780134092669,book-022.jpg,https://covers.openlibrary.org/b/isbn/9780134092669-M.jpg?default=false
+23,Computer Organization and Design RISC-V Edition,"David A. Patterson, John L. Hennessy",9780128122754,book-023.jpg,https://covers.openlibrary.org/b/isbn/9780128122754-M.jpg?default=false
+24,"Computer Architecture: A Quantitative Approach, 6th Edition","John L. Hennessy, David A. Patterson",9780128119051,book-024.jpg,https://covers.openlibrary.org/b/isbn/9780128119051-M.jpg?default=false
+25,"Operating System Concepts, 10th Edition","Abraham Silberschatz, Peter B. Galvin, Greg Gagne",9781119800361,book-025.jpg,https://onlinebooksoutlet.com/cdn/shop/products/buy-operating-system-concepts_1200x.jpg?v=1703685885
+26,"Modern Operating Systems, 4th Edition","Andrew S. Tanenbaum, Herbert Bos",9780133591620,book-026.jpg,https://covers.openlibrary.org/b/isbn/9780133591620-M.jpg?default=false
+27,Operating Systems: Three Easy Pieces,"Remzi H. Arpaci-Dusseau, Andrea C. Arpaci-Dusseau",9781985086593,book-027.jpg,https://covers.openlibrary.org/b/isbn/9781985086593-M.jpg?default=false
+28,The Design of the UNIX Operating System,Maurice J. Bach,9780132017992,book-028.jpg,https://covers.openlibrary.org/b/isbn/9780132017992-M.jpg?default=false
+29,Java Concurrency in Practice,"Brian Goetz, Tim Peierls, Joshua Bloch, Joseph Bowbeer, David Holmes, Doug Lea",9780321349606,book-029.jpg,https://covers.openlibrary.org/b/isbn/9780321349606-M.jpg?default=false
+30,"The Linux Command Line, 2nd Edition",William Shotts,9781593279523,book-030.jpg,https://thepihut.com/cdn/shop/products/the-linux-command-line-2nd-edition-no-starch-press-103790-30185588555971.jpg?v=1646124845&width=2048
+31,"Structure and Interpretation of Computer Programs, 2nd Edition","Harold Abelson, Gerald Jay Sussman, Julie Sussman",9780262510875,book-031.jpg,https://covers.openlibrary.org/b/isbn/9780262510875-M.jpg?default=false
+32,Crafting Interpreters,Robert Nystrom,9780990582939,book-032.jpg,https://covers.openlibrary.org/b/isbn/9780990582939-M.jpg?default=false
+33,"Compilers: Principles, Techniques, and Tools, 2nd Edition","Alfred V. Aho, Monica S. Lam, Ravi Sethi, Jeffrey D. Ullman",9780321486813,book-033.jpg,https://covers.openlibrary.org/b/isbn/9780321486813-M.jpg?default=false
+34,Types and Programming Languages,Benjamin C. Pierce,9780262162098,book-034.jpg,https://covers.openlibrary.org/b/isbn/9780262162098-M.jpg?default=false
+35,"Engineering a Compiler, 2nd Edition","Keith D. Cooper, Linda Torczon",9780120884780,book-035.jpg,https://covers.openlibrary.org/b/isbn/9780120884780-M.jpg?default=false
+36,Functional Programming in Scala,"Paul Chiusano, Rúnar Bjarnason",9781617290657,book-036.jpg,https://covers.openlibrary.org/b/isbn/9781617290657-M.jpg?default=false
+37,"The C Programming Language, 2nd Edition","Brian W. Kernighan, Dennis M. Ritchie",9780131103627,book-037.jpg,https://covers.openlibrary.org/b/isbn/9780131103627-M.jpg?default=false
+38,"C++ Primer, 5th Edition","Stanley B. Lippman, Josée Lajoie, Barbara E. Moo",9780321714114,book-038.jpg,https://covers.openlibrary.org/b/isbn/9780321714114-M.jpg?default=false
+39,"The Rust Programming Language, 2nd Edition","Steve Klabnik, Carol Nichols",9781718503106,book-039.jpg,https://covers.openlibrary.org/b/isbn/9781718503106-M.jpg?default=false
+40,The Go Programming Language,"Alan A. A. Donovan, Brian W. Kernighan",9780134190440,book-040.jpg,https://covers.openlibrary.org/b/isbn/9780134190440-M.jpg?default=false
+41,Designing Data-Intensive Applications,Martin Kleppmann,9781449373320,book-041.jpg,https://covers.openlibrary.org/b/isbn/9781449373320-M.jpg?default=false
+42,Database Internals,Alex Petrov,9781492040347,book-042.jpg,https://covers.openlibrary.org/b/isbn/9781492040347-M.jpg?default=false
+43,"Learning SQL, 3rd Edition",Alan Beaulieu,9781492057611,book-043.jpg,https://covers.openlibrary.org/b/isbn/9781492057611-M.jpg?default=false
+44,"SQL Cookbook, 2nd Edition","Anthony Molinaro, Robert de Graaf",9781492077442,book-044.jpg,https://down-th.img.susercontent.com/file/id-11134207-7r990-lonr6quyfuh557
+45,SQL Antipatterns,Bill Karwin,9781934356555,book-045.jpg,https://covers.openlibrary.org/b/isbn/9781934356555-M.jpg?default=false
+46,"Practical SQL, 2nd Edition",Anthony DeBarros,9781718501065,book-046.jpg,https://covers.openlibrary.org/b/isbn/9781718501065-M.jpg?default=false
+47,"Database System Concepts, 7th Edition","Abraham Silberschatz, Henry F. Korth, S. Sudarshan",9780078022159,book-047.jpg,https://covers.openlibrary.org/b/isbn/9780078022159-M.jpg?default=false
+48,Fundamentals of Data Engineering,"Joe Reis, Matt Housley",9781098108304,book-048.jpg,https://covers.openlibrary.org/b/isbn/9781098108304-M.jpg?default=false
+49,Introduction to Information Retrieval,"Christopher D. Manning, Prabhakar Raghavan, Hinrich Schütze",9780521865715,book-049.jpg,https://covers.openlibrary.org/b/isbn/9780521865715-M.jpg?default=false
+50,"Database Management Systems, 3rd Edition","Raghu Ramakrishnan, Johannes Gehrke",9780072465631,book-050.jpg,https://covers.openlibrary.org/b/isbn/9780072465631-M.jpg?default=false
+51,"Computer Networking: A Top-Down Approach, 8th Edition","James F. Kurose, Keith W. Ross",9780136681557,book-051.jpg,https://www.pearson.com/store/pmccommercewebservices/v2/medias/size-W370-bigcovers-0136681557.jpg?context=bWFzdGVyfGltYWdlc3w4NTQ3N3xpbWFnZS9qcGVnfHN5cy1tYXN0ZXIvaW1hZ2VzL2hlMS9oODUvMTU1MzU0MDcxMDQwMzAvc2l6ZV9XMzcwXy9iaWdjb3ZlcnMvMDEzNjY4MTU1Ny5qcGd8NTE0ZjM0NzU0MTEwNjQ3ZmY5ODA3NDI1ODQzYzQ3YzdjM2VkNWYxODg4Zjc3NWY5OTRlZGYwNjllYmYxM2ZkYg&imwidth=1920
+52,"Computer Networks, 5th Edition","Andrew S. Tanenbaum, David J. Wetherall",9780132126953,book-052.jpg,https://covers.openlibrary.org/b/isbn/9780132126953-M.jpg?default=false
+53,"Computer Networks: A Systems Approach, 5th Edition","Larry L. Peterson, Bruce S. Davie",9780123850591,book-053.jpg,https://covers.openlibrary.org/b/isbn/9780123850591-M.jpg?default=false
+54,"TCP/IP Illustrated, Volume 1, 2nd Edition","Kevin R. Fall, W. Richard Stevens",9780321336316,book-054.jpg,https://covers.openlibrary.org/b/isbn/9780321336316-M.jpg?default=false
+55,"Distributed Systems: Concepts and Design, 5th Edition","George Coulouris, Jean Dollimore, Tim Kindberg, Gordon Blair",9780132143011,book-055.jpg,https://bookstore.uoguelph.ca/images/product/medium/25166.jpg
+56,Distributed Algorithms,Nancy A. Lynch,9781558603486,book-056.jpg,https://www.oreilly.com/covers/urn:orm:book:9781558603486/296w/?format=webp
+57,"Unix Network Programming, Volume 1, 3rd Edition","W. Richard Stevens, Bill Fenner, Andrew M. Rudoff",9780131411555,book-057.jpg,https://covers.openlibrary.org/b/isbn/9780131411555-M.jpg?default=false
+58,RESTful Web APIs,"Leonard Richardson, Mike Amundsen, Sam Ruby",9781449358068,book-058.jpg,https://covers.openlibrary.org/b/isbn/9781449358068-M.jpg?default=false
+59,"Building Microservices, 2nd Edition",Sam Newman,9781492034025,book-059.jpg,https://covers.openlibrary.org/b/isbn/9781492034025-M.jpg?default=false
+60,Site Reliability Engineering,"Betsy Beyer, Chris Jones, Jennifer Petoff, Niall Richard Murphy",9781491929124,book-060.jpg,https://covers.openlibrary.org/b/isbn/9781491929124-M.jpg?default=false
+61,"The Pragmatic Programmer, 20th Anniversary Edition","David Thomas, Andrew Hunt",9780135957059,book-061.jpg,https://covers.openlibrary.org/b/isbn/9780135957059-M.jpg?default=false
+62,"Code Complete, 2nd Edition",Steve McConnell,9780735619678,book-062.jpg,https://covers.openlibrary.org/b/isbn/9780735619678-M.jpg?default=false
+63,"Refactoring, 2nd Edition",Martin Fowler,9780134757599,book-063.jpg,https://covers.openlibrary.org/b/isbn/9780134757599-M.jpg?default=false
+64,Design Patterns,"Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides",9780201633610,book-064.jpg,https://covers.openlibrary.org/b/isbn/9780201633610-M.jpg?default=false
+65,"A Philosophy of Software Design, 2nd Edition",John Ousterhout,9781732102217,book-065.jpg,https://i.ebayimg.com/images/g/170AAeSwA91oXnlq/s-l1600.png
+66,Working Effectively with Legacy Code,Michael C. Feathers,9780131177055,book-066.jpg,https://covers.openlibrary.org/b/isbn/9780131177055-M.jpg?default=false
+67,Software Engineering at Google,"Titus Winters, Tom Manshreck, Hyrum Wright",9781492082798,book-067.jpg,https://covers.openlibrary.org/b/isbn/9781492082798-M.jpg?default=false
+68,The Practice of Programming,"Brian W. Kernighan, Rob Pike",9780201615869,book-068.jpg,https://covers.openlibrary.org/b/isbn/9780201615869-M.jpg?default=false
+69,Domain-Driven Design,Eric Evans,9780321125217,book-069.jpg,https://covers.openlibrary.org/b/isbn/9780321125217-M.jpg?default=false
+70,Test-Driven Development: By Example,Kent Beck,9780321146533,book-070.jpg,https://covers.openlibrary.org/b/isbn/9780321146533-M.jpg?default=false
+71,"The Web Application Hacker's Handbook, 2nd Edition","Dafydd Stuttard, Marcus Pinto",9781118026472,book-071.jpg,https://martinsfontespaulista.vteximg.com.br/arquivos/ids/704576-800-800/659640_ampliada.jpg?v=637262486551030000
+72,Threat Modeling: Designing for Security,Adam Shostack,9781118809990,book-072.jpg,https://cdn.kobo.com/book-images/d564d967-8b64-448e-a1a9-5f74348c1c23/1200/1200/False/threat-modeling.jpg
+73,Secure by Design,"Dan Bergh Johnsson, Daniel Deogun, Daniel Sawano",9781617294358,book-073.jpg,https://drek4537l1klr.cloudfront.net/johnsson/Figures/cover.jpg
+74,"Computer Security: Principles and Practice, 4th Edition","William Stallings, Lawrie Brown",9780134794105,book-074.jpg,https://covers.openlibrary.org/b/isbn/9780134794105-M.jpg?default=false
+75,"Security Engineering, 3rd Edition",Ross Anderson,9781119642787,book-075.jpg,https://covers.openlibrary.org/b/isbn/9781119642787-M.jpg?default=false
+76,Cryptography Engineering,"Niels Ferguson, Bruce Schneier, Tadayoshi Kohno",9780470474242,book-076.jpg,https://covers.openlibrary.org/b/isbn/9780470474242-M.jpg?default=false
+77,"Introduction to Modern Cryptography, 3rd Edition","Jonathan Katz, Yehuda Lindell",9780815354369,book-077.jpg,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1609158057i/56445168.jpg
+78,Serious Cryptography,Jean-Philippe Aumasson,9781593278267,book-078.jpg,https://covers.openlibrary.org/b/isbn/9781593278267-M.jpg?default=false
+79,The Tangled Web,Michal Zalewski,9781593273880,book-079.jpg,https://covers.openlibrary.org/b/isbn/9781593273880-M.jpg?default=false
+80,Web Security for Developers,Malcolm McDonald,9781593279943,book-080.jpg,https://images4.penguinrandomhouse.com/cover/9781593279943
+81,"Artificial Intelligence: A Modern Approach, 4th Edition","Stuart Russell, Peter Norvig",9780134610993,book-081.jpg,https://covers.openlibrary.org/b/isbn/9780134610993-M.jpg?default=false
+82,"Artificial Intelligence: Foundations of Computational Agents, 3rd Edition","David L. Poole, Alan K. Mackworth",9781009258197,book-082.jpg,https://www.cambridgebookshop.co.uk/cdn/shop/files/9781009258197i.jpg?v=1727273552&width=400
+83,"Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Edition",Aurélien Géron,9781098125974,book-083.jpg,https://covers.openlibrary.org/b/isbn/9781098125974-M.jpg?default=false
+84,Machine Learning: A Probabilistic Perspective,Kevin P. Murphy,9780262018029,book-084.jpg,https://covers.openlibrary.org/b/isbn/9780262018029-M.jpg?default=false
+85,Pattern Recognition and Machine Learning,Christopher M. Bishop,9780387310732,book-085.jpg,https://covers.openlibrary.org/b/isbn/9780387310732-M.jpg?default=false
+86,"An Introduction to Statistical Learning, 2nd Edition","Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani",9781071614174,book-086.jpg,https://covers.openlibrary.org/b/isbn/9781071614174-M.jpg?default=false
+87,Deep Learning,"Ian Goodfellow, Yoshua Bengio, Aaron Courville",9780262035613,book-087.jpg,https://covers.openlibrary.org/b/isbn/9780262035613-M.jpg?default=false
+88,Build a Large Language Model (From Scratch),Sebastian Raschka,9781633437166,book-088.jpg,https://covers.openlibrary.org/b/isbn/9781633437166-M.jpg?default=false
+89,"Reinforcement Learning: An Introduction, 2nd Edition","Richard S. Sutton, Andrew G. Barto",9780262039246,book-089.jpg,https://cdn.shopify.com/s/files/1/0034/8314/0209/products/Reinforcement-Learning-second-edition-An-Introduction-Books-Amazon_com_au-Smart-Buy-Direct-AU_1200x1200_crop_center.jpg?v=1650489147
+90,Probabilistic Robotics,"Sebastian Thrun, Wolfram Burgard, Dieter Fox",9780262201629,book-090.jpg,https://images.thenile.io/r1000/9780262201629.jpg
+91,"Fundamentals of Computer Graphics, 4th Edition","Steve Marschner, Peter Shirley",9781482229394,book-091.jpg,https://img.perlego.com/book-covers/2193507/9781315360201.jpg
+92,"Physically Based Rendering, 3rd Edition","Matt Pharr, Wenzel Jakob, Greg Humphreys",9780128006450,book-092.jpg,https://covers.openlibrary.org/b/isbn/9780128006450-M.jpg?default=false
+93,"Real-Time Rendering, 4th Edition","Tomas Akenine-Möller, Eric Haines, Naty Hoffman, Angelo Pesce, Michał Iwanicki, Sébastien Hillaire",9781138627000,book-093.jpg,https://covers.openlibrary.org/b/isbn/9781138627000-M.jpg?default=false
+94,"Interaction Design: Beyond Human-Computer Interaction, 5th Edition","Helen Sharp, Yvonne Rogers, Jennifer Preece",9781119547259,book-094.jpg,https://covers.openlibrary.org/b/isbn/9781119547259-M.jpg?default=false
+95,"The Design of Everyday Things, Revised and Expanded Edition",Don Norman,9780465050659,book-095.jpg,https://covers.openlibrary.org/b/isbn/9780465050659-M.jpg?default=false
+96,"Designing the User Interface, 6th Edition","Ben Shneiderman, Catherine Plaisant, Maxine Cohen, Steven Jacobs, Niklas Elmqvist, Nicholas Diakopoulos",9780134380384,book-096.jpg,https://covers.openlibrary.org/b/isbn/9780134380384-M.jpg?default=false
+97,"Computer Vision: Algorithms and Applications, 2nd Edition",Richard Szeliski,9783030343712,book-097.jpg,https://bukharibooks.com/wp-content/uploads/2022/06/computervision.png
+98,"Digital Image Processing, 4th Edition","Rafael C. Gonzalez, Richard E. Woods",9780133356724,book-098.jpg,https://www.mathworks.com/academia/books/digital-image-processing-gonzalez/_jcr_content/cover.adapt.full.medium.png/1648488313320.png
+99,"Multiple View Geometry in Computer Vision, 2nd Edition","Richard Hartley, Andrew Zisserman",9780521540513,book-099.jpg,https://i5.walmartimages.com/seo/Multiple-View-Geometry-in-Computer-Vision-Paperback-9780521540513_b4a2518f-f86f-40eb-8aa2-330fab5342b8.d4410a31d21b5d626dcb836779b25d1b.jpeg?odnBg=FFFFFF&odnHeight=576&odnWidth=576
+100,"Computer Vision: Models, Learning, and Inference",Simon J. D. Prince,9781107011793,book-100.jpg,https://booklibimg.kfzimg.com/data/book_lib_img_v2/isbn/1/9b39/9b394eca6380eaa5a146753dc175467e_0_1_300_300.jpg
